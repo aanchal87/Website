@@ -1,0 +1,321 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    border: border-box;
+    text-decoration: none;
+}
+
+.navbar {
+    height: 60px;
+    background-color: #1d3a42;
+    color: white;
+}
+
+.logo {
+    background-image: url("Wtsp4.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 160px;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    padding-right: 25Px;
+}
+
+li a {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 25%;
+}
+
+.a {
+    position: absolute;
+    top: 3%;
+    right: 10%;
+}
+
+.i {
+    position: absolute;
+    top: 9%;
+    right: -30%;
+    color: #c8a067;
+}
+
+.fc {
+    position: absolute;
+    top: 6%;
+    right: -15%;
+    color: #c8a067;
+}
+
+.t {
+    position: absolute;
+    top: 6%;
+    right: -45%;
+    color: #c8a067;
+}
+
+.main-section {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main-section img {
+    height: 100%;
+    width: 100%;
+}
+
+.b {
+    position: absolute;
+    left: 3%;
+    top: 40%;
+    color: black;
+    padding-right: 20%;
+}
+
+.c {
+    position: absolute;
+    left: 3%;
+    top: 45%;
+    color: black;
+}
+
+.d {
+    position: absolute;
+    left: 3%;
+    top: 50%;
+    color: black;
+}
+
+.e {
+    position: absolute;
+    left: 3%;
+    top: 52%;
+    color: black;
+}
+
+.f {
+    background-color: #1d3a42;
+    color: whitesmoke;
+    height: 40px;
+    width: 170px;
+    position: absolute;
+    top: 60%;
+    left: 3%;
+}
+
+.mid img {
+    position: absolute;
+    top: 100%;
+    left: 55%;
+}
+
+.one {
+    position: absolute;
+    left: 3%;
+    top: 110%;
+}
+
+.two {
+    position: absolute;
+    left: 3%;
+    top: 120%;
+}
+
+.three {
+    position: absolute;
+    left: 3%;
+    top: 122%;
+}
+
+.four {
+    position: absolute;
+    left: 3%;
+    top: 124%;
+}
+
+.five {
+    position: absolute;
+    left: 3%;
+    top: 126%;
+}
+
+.g {
+    color: black;
+    height: 40px;
+    width: 170px;
+    position: absolute;
+    top: 135%;
+    left: 3%;
+}
+
+.boxes {
+    position: absolute;
+    left: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    top: 165%;
+    border-radius: 2px;
+}
+
+.box1 {
+    height: 400px;
+    margin: 10px 5px 10px 10px;
+    width: 400px;
+    padding: 20px;
+}
+
+.box2 {
+    height: 400px;
+    width: 400px;
+    margin: 10px 5px 10px 10px;
+    padding: 20px;
+}
+
+.box3 {
+    height: 400px;
+    width: 400px;
+    margin: 10px 5px 10px 5px;
+    padding: 20px;
+}
+
+.empty {
+    height: 270px;
+    width: 100%;
+    will-change: 100%;
+    background-color: #1d3a42;
+    color: whitesmoke;
+    position: absolute;
+    top: 250%;
+}
+
+.p1 {
+    position: absolute;
+    left: 35%;
+}
+
+.p2 {
+    position: absolute;
+    left: 40%;
+}
+
+.p3 {
+    position: absolute;
+    left: 37%;
+}
+
+.p4 {
+    position: absolute;
+    left: 35%;
+}
+
+.p5 {
+    position: absolute;
+    left: 45%;
+}
+
+.p6 {
+    position: absolute;
+    left: 50%;
+    font-weight: 10px;
+}
+
+.work {
+    position: absolute;
+    left: 20%;
+    top: 300%;
+}
+
+.an {
+    position: absolute;
+    top: 290%;
+    left: 40%;
+}
+
+.box4 {
+    height: 300px;
+    width: 300px;
+    margin: 10px 10px 5px 5px;
+    padding: 17px;
+}
+
+.loc {
+    background-color: #1d3a42d6;
+    position: absolute;
+    top: 410%;
+    height: 500px;
+    width: 100%;
+}
+
+.loc img {
+    position: absolute;
+    left: 60%;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+}
+
+.hr {
+    position: absolute;
+    left: 3%;
+    top: 25%;
+    color: whitesmoke;
+    padding-right: 10%;
+}
+
+.aa {
+    position: absolute;
+    left: 3%;
+    top: 35%;
+    color: whitesmoke;
+    padding-right: 10%;
+}
+
+.pr {
+    position: absolute;
+    left: 3%;
+    top: 40%;
+    text-decoration: underline;
+    color: whitesmoke;
+    padding-right: 10%;
+}
+
+.su {
+    position: absolute;
+    left: 3%;
+    top: 45%;
+    text-decoration: underline;
+    color: whitesmoke;
+    padding-right: 10%;
+}
+
+.navbar2 {
+    height: 60px;
+    width: 100%;
+    background-color: #1d3a42;
+    color: white;
+    position: absolute;
+    top: 470%;
+}
+
+.navbar2 {
+    height: 60px;
+    background-color: #1d3a42;
+    color: white;
+}
+
+.logo2 {
+    background-image: url("Wtsp4.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 160px;
+}
+
+.icon {
+    display: flex;
+}
